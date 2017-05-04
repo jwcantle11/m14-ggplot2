@@ -1,22 +1,4 @@
-Skip to content
-This repository
-Search
-Pull requests
-Issues
-Gist
-@jwcantle11
-Sign out
-Watch 0
-Star 0
-Fork 288 jwcantle11/m14-ggplot2
-forked from info201-s17/m14-ggplot2
-Code  Pull requests 0  Projects 0  Wiki  Pulse  Graphs  Settings
-Branch: complete Find file Copy pathm14-ggplot2/exercise-2/exercise.R
-cbea44e  on Feb 5
-@joelwross joelwross Add exercise-2
-1 contributor
-RawBlameHistory     
-127 lines (93 sloc)  4.61 KB
+
 # Exercise 2: More ggplot2 Grammar
 
 # Install and load `ggplot2`
